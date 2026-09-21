@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485290725277",
+    "project_id": "fivekdatabase",
+    "storage_bucket": "fivekdatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485290725277:android:08136ba522bc8898b0a974",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "api_key3"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485290725277:android:e8c171e90c1ce684b0a974",
+        "android_client_info": {
+          "package_name": "com.sqa.FiveK"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "api_key3"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
